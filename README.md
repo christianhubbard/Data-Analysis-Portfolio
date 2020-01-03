@@ -1,5 +1,3 @@
-# Portfolio
-
 Welcome to my GitHub page! Here, you can find a selection of projects I've completed while progressing through the DataQuest online learning platform. The track that I've completed is 'Data Analyst in Python.
 
 Along the way, I've learned the following skills:
